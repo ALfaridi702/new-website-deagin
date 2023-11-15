@@ -1,0 +1,27 @@
+h1 {
+
+    font-family: "Agbalumo";
+
+}
+
+botton {
+    border: 2px solid green;
+    background-color: aqua;
+    margin-bottom: auto;
+    padding: 5px 20px;
+    border-radius: 5px;
+}
+
+.hight {
+    color: blue;
+}
+
+.width-half {
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+}
+
+.width-half img {
+    width: 100%;
+}
