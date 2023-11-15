@@ -39,17 +39,15 @@ h1 {
 }
 
 
-.boss {
+.boss img {
     background-image: url("./photo/image\ 1-2.png");
     background-repeat: no-repeat;
     float: left;
-    border: 1px solid rgb(0, 255, 195);
+    border: 5px solid rgb(0, 255, 195);
     width: 100%;
     background-size: 40%;
     padding-top: 20px;
 }
-
-/* 
 
 .link-botton {
     background-color: aqua;
@@ -58,19 +56,44 @@ h1 {
     border: 5px;
     padding: 5px 20px;
     border-radius: 5px 10px;
+
+}
+
+.width-half {
+
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+
 }
 
 
 
 
 
-.
+.width-half img {
+    background-image: url("./photo/image\ 1.png");
+    background-repeat: no-repeat;
+    float: right;
+    border: 1px solid rgb(0, 255, 195);
+    width: 100%;
+    background-size: 40%;
+    padding-top: 20px;
 }
 
-.
+/* 
 
-.width 
-.
+width-half img {
+
+    background-image: url(photo/image\ 9.png);
+    background-repeat: no-repeat;
+    float: right;
+    border: 1px solid rgb(0, 255, 195);
+    margin-right: 10px;
+    background-size: 40%;
+
+}
+
 
 .firstbatton {
     background-color: aqua;
@@ -91,17 +114,9 @@ h1 {
     padding-top: 20px;
 }
 
-.width-half5 {
 
-    width: 40%;
-    float: left;
-    margin-left: 5%;
 
-}
-
-.width-half5 img {
-    width: 100%;
-}   */
+  */
 
 
 
