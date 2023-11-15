@@ -1,3 +1,8 @@
+body {
+    margin: 0;
+    font-size: 20px;
+}
+
 h1 {
 
     font-family: "Agbalumo";
@@ -24,4 +29,14 @@ botton {
 
 .width-half img {
     width: 100%;
+}
+
+.boss {
+    background-image: url("./photo/babyboss2.png");
+    background-repeat: no-repeat;
+    float: left;
+    border: 1px solid rgb(0, 255, 195);
+    width: 100%;
+    background-size: 50%;
+    padding-top: 20px;
 }
