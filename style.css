@@ -1,52 +1,26 @@
-* body {
-    margin: 50px;
-    font-size: 20px;
+.boss {
+    width: 100%;
 }
-
-h1 {
-
-    font-family: "Agbalumo";
-
-}
-
 
 .hight {
-    font: weight 100%;
-
     color: blue;
 }
 
-.width-half img {
-    width: 100%;
-    margin-left: 5%;
+.highlight {
+    color: rgb(255, 0, 208);
 }
 
-.width-half {
-    width: 40%;
-    float: left;
-    margin-left: 5%;
-}
 
 .well {
     font-size: 50px;
 }
 
-.width {
+.click-button {
     color: rgb(179, 29, 72);
     background-color: rgb(0, 255, 174);
     border-radius: 5px;
+    padding: 10px;
 
-}
-
-
-.boss img {
-    background-image: url("./photo/image\ 1-2.png");
-    background-repeat: no-repeat;
-    float: left;
-    border: 5px solid rgb(0, 255, 195);
-    width: 100%;
-    background-size: 40%;
-    padding-top: 20px;
 }
 
 .link-botton {
@@ -59,23 +33,25 @@ h1 {
 
 }
 
-.width-half {
+.introduction {
+    width: 100%;
+}
 
+.width-half {
     width: 40%;
     float: left;
     margin-left: 5%;
-
 }
 
-
-
-
+.exprience-area {
+    display: block;
+    width: 100%;
+    background-color: rgb(255, 145, 0)
+}
 
 .width-half img {
     background-image: url("./photo/image\ 1.png");
     background-repeat: no-repeat;
-    float: right;
-    border: 1px solid rgb(0, 255, 195);
     width: 100%;
     background-size: 40%;
     padding-top: 20px;
